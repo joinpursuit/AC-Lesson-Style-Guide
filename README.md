@@ -21,7 +21,7 @@ This is a suggested checklist of what each lesson should cover/contain:
 	- [ ] e. **Further Reading**: More advanced reading, includes resource reading for the "Advanced" exercises
 	- [ ] f. **Resources**: Documentation, developer tools, etc.
 	- [ ] g. *Main Lesson*: All of the contents of the main lesson; each topic is its own section title
-	- [ ] h. *Interspersed Exercises*: No formal section for this; just that the lesson contains small, occassional breakout exercises or theory discussion questions
+	- [ ] h. *Interspersed Exercises*: No formal section for this; just that the lesson contains small, occasional breakout exercises or theory discussion questions
 	- [ ] i. **Exercises**: Extends lesson or provides more practice of a concept
 	- [ ] j. **Advanced**: At least 1 optional, advanced exercise provided for students to complete after the core exercises are completed
 - [ ] 4. Master branch is fork-ready (project is set up right where the day's lesson begins, including any starter code)
