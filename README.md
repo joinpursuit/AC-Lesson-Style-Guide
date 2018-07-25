@@ -15,15 +15,16 @@ This is a suggested checklist of what each lesson should cover/contain:
 	- [ ] d. Images are used liberally to illustrate concepts, show code/IDE, display relevant gifs, etc. 
 - [ ] 3. README separated into appropriate sections
    	- [ ] a. **Title**
-	- [ ] b. **Objectives**: 1+ Bullet points on what is going to be learned and why it is important
-	- [ ] c. **Vocabulary**: Relevant vocabulary used in the lesson, along with a 1-line definition and link to the expanded definition
-	- [ ] d. **Readings**: Prerequisite reading for understanding the lesson
-	- [ ] e. **Further Reading**: More advanced reading, includes resource reading for the "Advanced" exercises
-	- [ ] f. **Resources**: Documentation, developer tools, etc.
-	- [ ] g. *Main Lesson*: All of the contents of the main lesson; each topic is its own section title
-	- [ ] h. *Interspersed Exercises*: No formal section for this; just that the lesson contains small, occasional breakout exercises or theory discussion questions
-	- [ ] i. **Exercises**: Extends lesson or provides more practice of a concept
-	- [ ] j. **Advanced**: At least 1 optional, advanced exercise provided for students to complete after the core exercises are completed
+	- [ ] b. **Standard Addressed**: The learning standard that is being addressed.
+	- [ ] c. **Objectives**: One sentence describing the specific and concrete learning/skills devs should be able to demonstrate by the end of the learning segment
+	- [ ] d. **Vocabulary**: Relevant vocabulary used in the lesson, along with a 1-line definition and link to the expanded definition
+	- [ ] e. **Readings**: Prerequisite reading for understanding the lesson
+	- [ ] f. **Further Reading**: More advanced reading, includes resource reading for the "Advanced" exercises
+	- [ ] g. **Resources**: Documentation, developer tools, etc.
+	- [ ] h. *Main Lesson*: All of the contents of the main lesson; each topic is its own section title
+	- [ ] i. *Interspersed Exercises*: No formal section for this; just that the lesson contains small, occasional breakout exercises or theory discussion questions
+	- [ ] j. **Exercises**: Extends lesson or provides more practice of a concept
+	- [ ] k. **Advanced**: At least 1 optional, advanced exercise provided for students to complete after the core exercises are completed
 - [ ] 4. Master branch is fork-ready (project is set up right where the day's lesson begins, including any starter code)
 	- [ ] a. Completed lesson is located in `solution` branch
 	- [ ] b. `solution` branch can be run as-is if it is cloned
